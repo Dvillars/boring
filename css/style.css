@@ -1,6 +1,9 @@
 .intro {
   color: green;
   font-family: fantasy;
+  float: left;
+  width: 25%;
+  background-color: coral;
 }
 .flashy {
   color: red;
@@ -9,4 +12,9 @@
 
 .span {
   color: blue;
+}
+
+img {
+  width: 400px;
+  float: right;
 }
